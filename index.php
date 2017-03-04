@@ -49,4 +49,10 @@
 		</article>
 			
 	</section>
-    
+
+<footer id="contentinfo" class="body">
+		<p>2017 <a href="#">Skimmer Alert!</a></p>
+	</footer>
+
+    </body>
+</html>
