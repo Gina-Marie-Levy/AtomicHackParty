@@ -1,0 +1,11 @@
+fieldset {
+	background: #f9f9f9;
+	margin: 1.5em;
+	padding: 2em;
+	
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+
