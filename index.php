@@ -1,4 +1,9 @@
 <?php
+require('Action.php');
+$comment_post_ID = 1;
+$db = new Action();
+$comments = $db->get_comments($comment_post_ID);
+$has_comments = (count($comments) > 0);
 ?>
 
 <!DOCTYPE html>
