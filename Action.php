@@ -12,7 +12,7 @@ class Action {
       $this->data = $_SESSION['blog_comments'];
     }
   }
-
+  
   /**
    * Get all comments for the given post.
    */
