@@ -51,8 +51,10 @@ $has_comments = (count($comments) > 0);
 				to help others avoid the same area and let the proper authorities know about it as well.</p>
 			</div>
 		</article>
-			
+		<img src="images/map.jpg" alt="Skimmer Map" style="float: center;">
+		
 	</section>
+
 	
 	<section id="comments" class="body">
 	  
