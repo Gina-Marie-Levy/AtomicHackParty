@@ -50,6 +50,15 @@
 			
 	</section>
 
+<section id="comments" class="body">
+	  
+	  <header>
+			<h2>Skimmer Alert Area</h2>
+		</header>
+
+    <ol id="posts-list" class="hfeed<?php echo($has_comments?' has-comments':''); ?>">
+      <li class="no-comments">Be the first to add an alert comment.</li>
+      
 <footer id="contentinfo" class="body">
 		<p>2017 <a href="#">Skimmer Alert!</a></p>
 	</footer>
