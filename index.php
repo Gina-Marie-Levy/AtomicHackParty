@@ -54,6 +54,17 @@ $has_comments = (count($comments) > 0);
 		
 	</section>
 
+	<section id="comments" class="body">	 
+
+</head>
+<body>
+
+<h3>State Cracking down on gas-pump skimmers</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M-c9IU11KmY" frameborder="0" allowfullscreen></iframe>
+
+</section>
+
 	
 	<section id="comments" class="body">
 	  
